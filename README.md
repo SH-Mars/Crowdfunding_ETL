@@ -13,6 +13,7 @@ Notebooks: Each collaborator completed their own notebook located in the Noteboo
 Exports: category.csv, subcategory.csv, contacts.csv, campaign.csv
 
 ERD: crowdfunding_db_schema.png
+![Database Schema](crowdfunding_db_schema.png)
 
 Database: crowdfunding_db_schema.sql
 
